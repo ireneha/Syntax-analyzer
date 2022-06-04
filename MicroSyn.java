@@ -1,5 +1,3 @@
-//nh0322
-//
 //Micro Syntax
 //
 //This program is a recursive descent parser for MicroR
