@@ -1,0 +1,3 @@
+run:
+javac MicroSyn.java
+java MicroSyn < Test1.R
